@@ -6,3 +6,13 @@ Step 1: identify the channel name that you need to grab its EPG code from the ch
 ![alt text](https://preview.ibb.co/e1JCwU/EPG_Example.png)
 
 Step 2: Go to the [EPGCodes.json file](https://github.com/ahmedig/SmartIPTvSettings/blob/master/EPGCodes.json), and add an entry with the key as the channel name, and the value as the value you got from Step 1.
+
+step 3:
+The channel key as is as you see it in your TV, but without those keywords:
+* HD
+* SD
+* Low
+* 1080p
+* 4k
+* TV
+* _
