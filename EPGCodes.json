@@ -50,14 +50,27 @@
   "OSN-YAHALA": "OSNYahala.net",
 
   "MBC-1": "MBC1.net",
+  "AR:MBC_1": "MBC1.net",
   "MBC-2": "MBC2.net",
+  "AR:MBC_2": "MBC2.net",
   "MBC-3": "MBC3.net",
+  "AR:MBC_3": "MBC3.net",
   "MBC-4": "MBC4.net",
+  "AR:MBC_4": "MBC4.net",
   "MBC-ACTION": "MBCAction.net",
+  "AR:MBC_ACTION": "MBCAction.net",
   "MBC-BOLLYWOOD": "MBCBollywood.net",
+  "AR:MBC_BOLLYWOOD": "MBCBollywood.net",
   "MBC-MAX": "MBCMax.net",
+  "AR:MBC_MAX": "MBCMax.net",
   "MBC-PLUSDRAMA": "MBCDrama.net",
+  "AR:MBC_PLUSDRAMA": "MBCDrama.net",
   "MBC-PRO-SPORT-1": "MBCProSports1.net",
+  "AR:MBC_PRO_SPORT_1": "MBCProSports1.net",
   "MBC-PRO-SPORT-2": "MBCProSports2.net",
-  "MBC-PRO-SPORT-3": "MBCProSports3.net"
+  "AR:MBC_PRO_SPORT_2": "MBCProSports2.net",
+  "MBC-PRO-SPORT-3": "MBCProSports3.net",
+  "AR:MBC_PRO_SPORT_3": "MBCProSports3.net",
+  "MBC-PRO-SPORT-4": "MBCProSports4.net",
+  "AR:MBC_PRO_SPORT_4": "MBCProSports4.net"
 }
