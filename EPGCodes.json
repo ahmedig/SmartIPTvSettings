@@ -36,5 +36,15 @@
   "BEINSPORTS15": "bein15hd.jsc",
   "BEINSPORTS16": "bein16hd.jsc",
   "BEINSPORTS17": "bein17hd.jsc",
-  "BEINSPORTSNEWS": "beinsportsnews.jsc"
+  "BEINSPORTSNEWS": "beinsportsnews.jsc",
+  "OSN-AD-Drama": "OSNMoviesDrama.net",
+  "OSN-Movies-Action": "OSNMoviesAction.net",
+  "OSN-Movies-Action-2": "OSNMovies+2.net",
+  "OSN-Movies-Comedy": "OSNMoviesComedy.net",
+  "OSN-Movies-Festival": "OSNMoviesFestival.net",
+  "OSN-Movies-First": "OSNFirst.net",
+  "OSN-Movies-Kids": "OSNMoviesKids.net",
+  "OSN-First-HBO": "OSNFirstHBO.net",
+  "OSN-Series-Comedy": "OSNFirstComedy.net",
+  "OSN-YaHala": "OSNYahala.net"
 }
